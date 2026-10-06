@@ -5,7 +5,7 @@
 Summary:  A menu system for the Cinnamon project
 Name: cinnamon-menus
 Version: 6.6.0
-Release: 1
+Release: 2
 License: LGPLv2+
 Group: Graphical desktop/Other
 URL: https://cinnamon.linuxmint.com 
